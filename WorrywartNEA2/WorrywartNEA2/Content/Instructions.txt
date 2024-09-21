@@ -1,0 +1,5 @@
+﻿Worrywarts chase spread their stress to Nerds and Students, which eventually will turn them into Worrywarts.
+Students and Nerds love Libraries, where their stress will go down.
+
+You can spawn and remove any of these objects, choosing what to do in the top-right menu.
+Over in the bottom left you'll see controls for the speed of time passing.
